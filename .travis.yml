@@ -1,10 +1,10 @@
 language: node_js
 node_js: node
-deploy: boiling-dawn-57241
+deploy: 
   provider: heroku
   api_key:
     secure: sd2bRver8S8YcREb4Ru8/kYQSySAu3ch+i2kmawFJ/DEoFBMY0JRzGQkPyCVfvhoWj755S4UQEsQIkjGKsKbCb4Lj0wQwySSFFTlD0wAcD8GY6hzfwsHUfFUdoKTpjcSl9/QKuU1kgupZ2qkwIg5ArtRTsX/cxmoZ/T7kDi5jqbiNnmPeMgCTwa0ttu2gL8q1SP1Eo3BGw2ZgumqazQoB0U3I/XfTf4jMQaxP/O8m8nKga7uL9Z3YSQcs2EIcwlS7BQjm9BLslzRrOKfm0cAe8pD/K6HEJoZNN9TFV30jQVnYncRq1DNRh7TyHT4t8r3trQtJi6/DEjbJzKCB7NGhBhPIEfMtSU2ZFxZ3fjGtoMv8rOZjggkgh73IIAmCAoRAXBxYZcHoUYpGx6LnBbxonYkDfsHL3CecEu/Ibt5W6gBS/72R8Jm6eC4lByPCqbKsLJ97OV0jeM+8NcP2M9xifdCnpjyY7SDiG0XMQcE4kViVsprzIcZu0z+iXHEPCXa0IFiCoSyeUJ4YlUPaLgvWoPz+jWKb89uZQjJTbX+h/wh9+ttfHkzwOwWfeWoHMdtBZ0kwbhS6hiUsg4kIwbvXNDAEjaAGWiUyhIaSyisocdNTaLHG7bSc/WvhIGuY9XKIHUtLPpf+uSz/KlJVQqi00lkWylyjw0CWNzz1/EJjRo=
-  app: node-shopping-list-integration-tests
+  app: boiling-dawn-57241
   on:
     repo: nfjones87/node-shopping-list-integration-tests
     branch: tests-for-recipes
