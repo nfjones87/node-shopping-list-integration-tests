@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Shopping list v5
 ================
 
@@ -10,3 +11,6 @@ https://github.com/Thinkful-Ed/node-shopping-list-v5
 * Uses `express.Router` to route requests for `/recipes` and `/shopping-list` to separate modules.
 * CRUD (create, read, update, delete) operations for recipes and shopping list
 * Note: uses volatile, in memory storage, since we haven't studied data persistence yet in the course.
+=======
+# node-shopping-list-integration-tests
+>>>>>>> 273e21ed7fd2e4c6a71bd451d16137c7f1dd1082
