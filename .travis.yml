@@ -7,4 +7,3 @@ deploy:
   app: boiling-dawn-57241
   on:
     repo: nfjones87/node-shopping-list-integration-tests
-    branch: tests-for-recipes
